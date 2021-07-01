@@ -3,7 +3,7 @@ Black-Scan Tool !
 
 This code write by [Mr.nope](https://github.com/mrprogrammer2938)
 
-[![Python 3.9.0](https://img.shields.io/static/v1?label=Python&message=3.5.0&color=orange)](https://www.python.org/downloads/)
+[![Python 3.9.0](https://img.shields.io/static/v1?label=Python&message=3.9.0&color=orange)](https://www.python.org/downloads/)
 
 **Installing**
 ```
